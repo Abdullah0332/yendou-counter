@@ -15,7 +15,7 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/yendou-counter.git
+git clone https://github.com/Abdullah0332/yendou-counter.git
 cd yendou-counter
 ```
 
